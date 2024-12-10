@@ -1,9 +1,9 @@
 # JavaScript - Proz
-Exercícios realizados na disciplina 'Linguagem de Programação' ministrada por mim na Escola Proz
+Exercícios realizados na disciplina 'Linguagem de Programação' ministrada no curso de _Desenvolvimento de Sistemas_ Escola Proz
 
 <hr>
 
-## **Variáveis, Operadores Aritméticos, Concatenação, Relacionais e Lógicos**
+### **Variáveis, Operadores Aritméticos, Concatenação, Relacionais e Lógicos**
 
 **Q1.** Crie um programa cujo objetivo é inserir seus dados pessoais (nome, idade, gênero e cidade) e armazenar em cada variável determinada e depois exibidos na tela.
 
