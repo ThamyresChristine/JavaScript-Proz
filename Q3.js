@@ -1,15 +1,9 @@
-﻿var numUm = prompt("Digite um número: ")
+var nome = prompt("Digite seu nome: ")
 
-var numDois = prompt("Digite outro número: ")
+var idade = prompt("Agora, informe sua idade:")
 
-if (numUm % 2 != 0 && numDois% 2 != 0 ) {
-    document.write("Os números são ímpares.")
-    document.write(numUm + " e " + numDois)
-}  else if (numUm % 2 != 0 || numDois% 2 != 0 ) {
-    document.write("Um dos números é par.")
-    document.write(numUm + " e " + numDois)
-} else {
-    document.write("Os números não são ímpares.")
-    document.write(numUm + " e " + numDois)
+var genero = prompt("Informe o gênero: ") 
 
-}
+var cidade = prompt("Informe onde você mora:")
+
+document.write("Olá, " + nome + ", vc tem " + idade + " anos de idade.Seu gênero é " + genero + " e vc mora em " + cidade + ".")
