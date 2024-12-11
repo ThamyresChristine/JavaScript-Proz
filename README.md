@@ -86,7 +86,7 @@ document.write("<br>index da letra G: " + filme.indexOf("G"))
 ```
 
 ```
-### Laços de Repetição + Datas + POO
+### Laços de Repetição + Datas + POO - Programação Orientada a Objetos
 
 **Q1.** Desenvolva um programa que informa a tabuada de um número inserido pelo usuário.
 ```
