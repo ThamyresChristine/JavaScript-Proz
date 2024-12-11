@@ -1,5 +1,5 @@
 # JavaScript - Proz
-Exercícios realizados na disciplina 'Linguagem de Programação' ministrada no curso de _Desenvolvimento de Sistemas_ da Escola Proz
+Exercícios realizados durante a disciplina 'Linguagem de Programação', ministrada no curso de _Desenvolvimento de Sistemas_ da Escola Proz
 
 <hr>
 
