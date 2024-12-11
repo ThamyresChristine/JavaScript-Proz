@@ -96,7 +96,11 @@ document.write("<br>index da letra G: " + filme.indexOf("G"))
 ```
 
 ```
-**Q3.** Utilizando a programação Orientada a Objetos, monte um modelo de construção de um sistema de uma das empresas abaixo: Netflix ou Ifood ou Airbnb ou Uber.
+**Q3.** Utilizando a programação Orientada a Objetos, monte um modelo de construção de um sistema de uma das empresas abaixo: 
+* Netflix
+* Ifood
+* Airbnb
+* Uber/99
 ```
 
 ```
