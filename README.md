@@ -17,7 +17,7 @@ var cidade = prompt("Informe onde você mora:")
 
 document.write("Olá, " + nome + ", vc tem " + idade + " anos de idade.Seu gênero é " + genero + " e vc mora em " + cidade + ".")
 ```
-**Q2.** Dado o cálculo 12 * 3 + 4 - 8 / 2 % 3, qual o resultado segundo a precedência de operadores?
+**Q2.** Dado o cálculo 12 x 3 + 4 - 8 / 2 % 3, qual o resultado segundo a precedência de operadores?
 ```
 //Adicionar parênteses só para confirmar 
 var calculo =  (12 * 3) + 4 - (8 / 2) % 3
